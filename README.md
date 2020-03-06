@@ -1,3 +1,5 @@
+![Ajax]('./nyan.jpg')
+
 CMPUT404-assignment-ajax
 ==============================
 
